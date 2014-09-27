@@ -47,13 +47,13 @@ a.video-lazy-link:hover {
 .video-lazy-link-div {
   width: 100%;
   height: 100%;
-  background: image-url('video-play-button.png') center center no-repeat;
+  background: image-url('vimeo-play-button.png') center center no-repeat;
   position:absolute;
   top:0;
   left:0;
 }
 .video-lazy-link-div:hover {
-  background: image-url('video-play-button-hover.png') center center no-repeat;
+  background: image-url('vimeo-play-button-hover.png') center center no-repeat;
 }
 .video-lazy-link-info {
   position:absolute;
