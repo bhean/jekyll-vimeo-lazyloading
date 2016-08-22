@@ -20,7 +20,7 @@ And an alternative text for the link (optional too):
 
 ## Demo 
   
-See [this page for a demo](https://pornohardware.com/2014/09/27-jekyll-vimeo-lazyloading-un-nuevo-plugin-para-mostrar-videos-de-vimeo-en-octopress)
+See [this page for a demo](https://pornohardware.com/2014/09/27/jekyll-vimeo-lazyloading-un-nuevo-plugin-para-mostrar-videos-de-vimeo-en-octopress)
 
 
 ## How to install it ?
